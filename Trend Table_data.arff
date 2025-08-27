@@ -1,0 +1,50 @@
+@relation 'Trend Table_data'
+
+@attribute '﻿Characteristic Levels' {'Age 85+ years','Age 65-84 years','Age 45-64 years','Age 18-44 years','Age 1-17 years','Age 0 years'}
+@attribute Year numeric
+@attribute 'Trend Suppression' string
+@attribute Estimate numeric
+
+@data
+'Age 85+ years',2022,?,5876962
+'Age 65-84 years',2022,?,25477007
+'Age 45-64 years',2022,?,31552387
+'Age 18-44 years',2022,?,48462753
+'Age 1-17 years',2022,?,22449605
+'Age 0 years',2022,?,3144739
+'Age 85+ years',2021,?,5257000
+'Age 65-84 years',2021,?,22908494
+'Age 45-64 years',2021,?,30866168
+'Age 18-44 years',2021,?,47361894
+'Age 1-17 years',2021,?,18174842
+'Age 0 years',2021,?,2396339
+'Age 85+ years',2020,?,5335377
+'Age 65-84 years',2020,?,22125087
+'Age 45-64 years',2020,?,30982772
+'Age 18-44 years',2020,?,46977818
+'Age 1-17 years',2020,?,15719319
+'Age 0 years',2020,?,2134686
+'Age 85+ years',2019,?,6137899
+'Age 65-84 years',2019,?,24273956
+'Age 45-64 years',2019,?,34333242
+'Age 18-44 years',2019,?,52607680
+'Age 1-17 years',2019,?,22959735
+'Age 0 years',2019,?,3113121
+'Age 85+ years',2018,?,6056946
+'Age 65-84 years',2018,?,23011530
+'Age 45-64 years',2018,?,33563210
+'Age 18-44 years',2018,?,52190002
+'Age 1-17 years',2018,?,25082529
+'Age 0 years',2018,?,3548483
+'Age 85+ years',2017,?,6228797
+'Age 65-84 years',2017,?,22983693
+'Age 45-64 years',2017,?,34745648
+'Age 18-44 years',2017,?,54076259
+'Age 1-17 years',2017,?,23618908
+'Age 0 years',2017,?,3158793
+'Age 85+ years',2016,?,5819382
+'Age 65-84 years',2016,?,21314534
+'Age 45-64 years',2016,?,33839758
+'Age 18-44 years',2016,?,55059861
+'Age 1-17 years',2016,?,25302505
+'Age 0 years',2016,?,3496238
